@@ -1,6 +1,6 @@
 {
   "name": "The Quintessential Quintuplets",
-  "description": "A colorful The Quintessential Quintuplets theme inspired by Ichika, Nino, Miku, Yotsuba and Itsuki.",
+  "description": "A dark AMOLED-inspired theme based on the five Nakano sisters, blending Ichika yellow, Nino pink, Miku blue, Yotsuba green, and Itsuki orange.",
   "version": "1.0",
   "authors": [
     {
@@ -9,325 +9,128 @@
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": [
-      "#E85D83"
-    ],
-    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
-      "#FFF4F2"
-    ],
-    "CHAT_BACKGROUND": [
-      "#FFF7F5"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#E85D83",
-      "#F3C94B"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#FFF0F3",
-      "#FFF0F3"
-    ],
-    "BACKGROUND_MENTIONED": [
-      "#FFE5EC"
-    ],
-    "FORUM_POST_TAG_BACKGROUND": [
-      "#E85D83"
-    ],
-    "BACKGROUND_MENTIONED_HOVER": [
-      "#FFD5E0"
-    ],
-    "SCROLLBAR_THIN_THUMB": [
-      "#E85D83"
-    ],
-    "SCROLLBAR_THIN_TRACK": [
-      "#FCE8EC"
-    ],
-    "SCROLLBAR_AUTO_THUMB": [
-      "#E85D83"
-    ],
-    "SCROLLBAR_AUTO_TRACK": [
-      "#FCE8EC"
-    ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#FFF8F7"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#FFF0F3"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#FFE1E8"
-    ],
-    "CHANNELS_DEFAULT": [
-      "#756A70",
-      "#756A70"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "#FFF0F3",
-      "#FFF0F3"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#FFF1F4",
-      "#FFF1F4"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#FFF7F5"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#FFF0F3"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#F8D9E1",
-      "#F8D9E1"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#F5C8D5",
-      "#F5C8D5"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#FBE2E8",
-      "#FBE2E8"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#F2B8CA",
-      "#E9A8BE"
-    ],
     "BACKGROUND_PRIMARY": [
-      "#FFF7F5",
-      "#FFF7F5"
+      "#241B20",
+      "#241B20"
     ],
     "BACKGROUND_SECONDARY": [
-      "#FFF0F3",
-      "#FFE8EE"
+      "#302027",
+      "#302027"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#FCE8EC",
-      "#FCE8EC"
+      "#1C1519",
+      "#1C1519"
     ],
     "BACKGROUND_TERTIARY": [
-      "#FFF2F0",
-      "#FFF2F0"
+      "#191316",
+      "#191316"
     ],
-    "BG_BASE_PRIMARY": [
-      "#FFF7F5"
+    "CHAT_BACKGROUND": [
+      "#1A1417"
     ],
-    "BG_BASE_SECONDARY": [
-      "#FFF0F3"
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#1A1417"
     ],
-    "BG_BASE_TERTIARY": [
-      "#FCE8EC"
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#241B20"
     ],
-    "BG_BACKDROP": [
-      "#6B4A5570",
-      "#E85D83"
-    ],
-    "HOME_BACKGROUND": [
-      "#FFF7F5"
-    ],
-    "BORDER_FAINT": [
-      "#E9CDD5"
-    ],
-    "BORDER_STRONG": [
-      "#D99AAF"
-    ],
-    "BORDER_SUBTLE": [
-      "#E9CDD5"
-    ],
-    "CARD_SECONDARY_BG": [
-      "#FFF0F3"
-    ],
-    "CARD_PRIMARY_BG": [
-      "#FFF7F5"
-    ],
-    "CHANNEL_ICON": [
-      "#5B78E8",
-      "#5B78E8"
-    ],
-    "EMBED_BACKGROUND": [
-      "#FFF0F3"
-    ],
-    "HEADER_PRIMARY": [
-      "#403A42"
-    ],
-    "HEADER_SECONDARY": [
-      "#756A70"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#E85D83"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#D94D74"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#A99BA1"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#756A70"
-    ],
-    "MENTION_BACKGROUND": [
-      "#FFE0E8"
-    ],
-    "MENTION_FOREGROUND": [
-      "#E85D83"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#FFF0F3"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#FFF0F3"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#E9CDD5"
-    ],
-    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#EE704F"
-    ],
-    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#E85D83",
-      "#E85D83"
-    ],
-    "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#403A42",
-      "#403A42"
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#302027"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#FFF8F7"
+      "#302027"
     ],
-    "SPOILER_HIDDEN_BACKGROUND": [
-      "#E8DDE0"
+    "HEADER_PRIMARY": [
+      "#FFF7F8"
     ],
-    "STATUS_DANGER": [
-      "#E85D5D"
-    ],
-    "STATUS_DANGER_BACKGROUND": [
-      "#E85D5D"
-    ],
-    "STATUS_DANGER_TEXT": [
-      "#FFFFFF"
-    ],
-    "POLLS_NORMAL_FILL_HOVER": [
-      "#F8D9E1"
-    ],
-    "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#FFF0F3"
-    ],
-    "POLLS_VICTOR_FILL": [
-      "#6FBE78"
-    ],
-    "TEXT_LINK": [
-      "#5B78E8"
-    ],
-    "TEXT_MUTED": [
-      "#8D7E86"
+    "HEADER_SECONDARY": [
+      "#E6C9D1"
     ],
     "TEXT_NORMAL": [
-      "#403A42"
+      "#F7EDEF"
     ],
     "TEXT_PRIMARY": [
-      "#403A42"
+      "#FFF7F8"
     ],
     "TEXT_SECONDARY": [
-      "#756A70"
+      "#D8BFC8"
     ],
-    "KEYBOARD": [
-      "#FFF0F3"
+    "TEXT_MUTED": [
+      "#A98D97"
     ],
-    "PANEL_BG": [
-      "#FFF7F5"
+    "CHANNELS_DEFAULT": [
+      "#D8BFC8",
+      "#D8BFC8"
     ],
-    "BACKGROUND_BASE_LOWEST": [
-      "#FCE8EC"
+    "INTERACTIVE_NORMAL": [
+      "#E6C9D1"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FF7198"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FF8CAA"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#402B34",
+      "#402B34"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#4A303B",
+      "#4A303B"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#55313F",
+      "#623647"
+    ],
+    "BORDER_FAINT": [
+      "#684450"
+    ],
+    "BORDER_SUBTLE": [
+      "#684450"
+    ],
+    "BORDER_STRONG": [
+      "#8A5365"
+    ],
+    "TEXT_LINK": [
+      "#79A7FF"
     ]
   },
   "rawColors": {
-    "BLACK_500": "#403A4250",
-
-    "BRAND_260": "#F3C94B",
-    "BRAND_360": "#E85D83",
-    "BRAND_560": "#B83E62",
-    "BRAND_500": "#E85D83",
-
-    "ORANGE_260": "#FFE2B8",
-    "ORANGE_300": "#FFD39A",
-    "ORANGE_330": "#F8B879",
-    "ORANGE_345": "#F39B62",
-    "ORANGE_360": "#EE704F",
-    "ORANGE_400": "#E96445",
-    "ORANGE_430": "#D9563B",
-    "ORANGE_460": "#C84B35",
-    "ORANGE_500": "#B94231",
-    "ORANGE_530": "#A63A2C",
-    "ORANGE_560": "#963327",
-    "ORANGE_600": "#843027",
-    "ORANGE_630": "#722A24",
-    "ORANGE_660": "#622520",
-    "ORANGE_700": "#52201C",
-
-    "YELLOW_260": "#FFF4C7",
-    "YELLOW_300": "#FFE99A",
-    "YELLOW_330": "#FDE07A",
-    "YELLOW_345": "#F8D45D",
-    "YELLOW_360": "#F3C94B",
-    "YELLOW_400": "#E9BC3D",
-    "YELLOW_430": "#DDAF32",
-    "YELLOW_460": "#D1A329",
-    "YELLOW_500": "#C49622",
-    "YELLOW_530": "#B38A20",
-    "YELLOW_560": "#A17D1D",
-    "YELLOW_600": "#8E701B",
-    "YELLOW_630": "#7D6218",
-    "YELLOW_660": "#6D5516",
-    "YELLOW_700": "#5C4813",
-
-    "RED_430": "#5B78E8",
-
-    "PLUM_14": "#FFF0F3",
-    "PRIMARY_800": "#403A42",
-
-    "PLUM_1": "#FFF8F7",
-    "PLUM_22": "#FFE8EE",
-    "PRIMARY_660": "#E9A8BE",
-    "PRIMARY_700": "#D99AAF",
-    "PRIMARY_560": "#E85D83",
-    "PRIMARY_600": "#D94D74",
-    "PRIMARY_630": "#C9466B",
-
-    "PLUM_15": "#FCE8EC",
-    "PLUM_17": "#FFF7F5",
-    "PLUM_18": "#FFF0F3",
-    "PLUM_19": "#FCE8EC",
-    "PLUM_20": "#FFE1E8",
-    "PLUM_23": "#F5C8D5",
-    "PLUM_24": "#E9CDD5"
+    "TQQ_NINO_PINK": "#E85D83",
+    "TQQ_ICHIKA_YELLOW": "#F3C94B",
+    "TQQ_MIKU_BLUE": "#5B78E8",
+    "TQQ_YOTSUBA_GREEN": "#6FBE78",
+    "TQQ_ITSUKI_ORANGE": "#EE704F",
+    "TQQ_PINK_LIGHT": "#FF7198",
+    "TQQ_BLUE_LIGHT": "#79A7FF",
+    "TQQ_GREEN_LIGHT": "#86D58F",
+    "TQQ_YELLOW_LIGHT": "#FFE17A",
+    "TQQ_ORANGE_LIGHT": "#FF876A",
+    "TQQ_BACKGROUND": "#1A1417",
+    "TQQ_BACKGROUND_DARK": "#191316",
+    "TQQ_SURFACE": "#241B20",
+    "TQQ_SURFACE_LIGHT": "#302027",
+    "TQQ_TEXT": "#FFF7F8",
+    "TQQ_TEXT_SECONDARY": "#D8BFC8",
+    "TQQ_TEXT_MUTED": "#A98D97",
+    "TQQ_BORDER": "#684450"
   },
   "fonts": {
-    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
-    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+    "font": "gg sans",
+    "code": "monospace",
+    "serif": "serif",
+    "sans": "gg sans"
   },
   "plus": {
-    "version": 0,
     "iconpack": "rosiecord-plumpy",
-    "mentionLineColor": "#E85D83",
-    "customOverlays": true
+    "customOverlays": true,
+    "mentionLineColor": "#E85D83"
   },
   "spec": 2,
   "background": {
     "url": "https://raw.githubusercontent.com/rayhan0706/TQQ/refs/heads/main/Ichika_Nino_Miku_Yotsuba_Itsuki_3s_SubtleCharacterMovement.gif",
-    "alpha": 0.30,
+    "alpha": 0.22,
     "blur": 0
   }
 }
