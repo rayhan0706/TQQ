@@ -1,7 +1,7 @@
 {
   "name": "The Quintessential Quintuplets",
-  "description": "A light theme inspired by The Quintessential Quintuplets, featuring the colors of the five Nakano sisters with Nino's pink as the main accent.",
-  "version": "1.1",
+  "description": "A light theme inspired by The Quintessential Quintuplets, featuring the colors of the five Nakano sisters.",
+  "version": "1.0",
   "authors": [
     {
       "name": "Rexiê愛~",
@@ -40,42 +40,37 @@
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#FFFFFF"
     ],
-
     "HEADER_PRIMARY": [
-      "#30252A"
+      "#403A42"
     ],
     "HEADER_SECONDARY": [
-      "#5E4E55"
+      "#756A70"
     ],
-
     "TEXT_NORMAL": [
-      "#40373C"
+      "#403A42"
     ],
     "TEXT_PRIMARY": [
-      "#30252A"
+      "#403A42"
     ],
     "TEXT_SECONDARY": [
-      "#65565D"
+      "#756A70"
     ],
     "TEXT_MUTED": [
-      "#806F77"
+      "#8A7B81"
     ],
-
     "CHANNELS_DEFAULT": [
-      "#5E4E55",
-      "#5E4E55"
+      "#756A70",
+      "#756A70"
     ],
-
     "INTERACTIVE_NORMAL": [
-      "#65565D"
+      "#756A70"
     ],
     "INTERACTIVE_ACTIVE": [
       "#E85D83"
     ],
     "INTERACTIVE_HOVER": [
-      "#D94B73"
+      "#FF7198"
     ],
-
     "BACKGROUND_MODIFIER_HOVER": [
       "#F6DCE2",
       "#F6DCE2"
@@ -85,70 +80,56 @@
       "#F2D1D9"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#F3C7D2",
-      "#EFB8C7"
+      "#EFC7D1",
+      "#EFC7D1"
     ],
-
     "BORDER_FAINT": [
-      "#E8C9D1"
+      "#E9CDD5"
     ],
     "BORDER_SUBTLE": [
-      "#E2BBC5"
+      "#E9CDD5"
     ],
     "BORDER_STRONG": [
-      "#D69AAA"
+      "#D9AAB8"
     ],
-
     "TEXT_LINK": [
-      "#5274C9"
+      "#5B78E8"
     ]
   },
-
   "rawColors": {
     "TQQ_NINO_PINK": "#E85D83",
     "TQQ_ICHIKA_YELLOW": "#F3C94B",
     "TQQ_MIKU_BLUE": "#5B78E8",
     "TQQ_YOTSUBA_GREEN": "#6FBE78",
     "TQQ_ITSUKI_ORANGE": "#EE704F",
-
     "TQQ_PINK_LIGHT": "#FF7198",
     "TQQ_BLUE_LIGHT": "#7894F0",
     "TQQ_GREEN_LIGHT": "#82C98A",
     "TQQ_YELLOW_LIGHT": "#F8D76A",
     "TQQ_ORANGE_LIGHT": "#F4876C",
-
     "TQQ_BACKGROUND": "#FFF7F5",
     "TQQ_BACKGROUND_SECONDARY": "#FFF0F3",
     "TQQ_BACKGROUND_TERTIARY": "#F8E1E6",
-
-    "TQQ_SURFACE": "#FFFFFF",
-    "TQQ_SURFACE_ALT": "#FCE8EC",
-
-    "TQQ_TEXT": "#30252A",
-    "TQQ_TEXT_SECONDARY": "#5E4E55",
-    "TQQ_TEXT_MUTED": "#806F77",
-
-    "TQQ_BORDER": "#E2BBC5"
+    "TQQ_TEXT": "#403A42",
+    "TQQ_TEXT_SECONDARY": "#756A70",
+    "TQQ_TEXT_MUTED": "#8A7B81",
+    "TQQ_BORDER": "#E9CDD5"
   },
-
   "fonts": {
     "font": "gg sans",
     "code": "monospace",
     "serif": "serif",
     "sans": "gg sans"
   },
-
   "plus": {
     "iconpack": "rosiecord-plumpy",
     "customOverlays": true,
     "mentionLineColor": "#E85D83"
   },
-
   "spec": 2,
-
   "background": {
     "url": "https://raw.githubusercontent.com/rayhan0706/TQQ/refs/heads/main/Ichika_Nino_Miku_Yotsuba_Itsuki_3s_SubtleCharacterMovement.gif",
-    "alpha": 0.16,
+    "alpha": 0.25,
     "blur": 0
   }
-} 
+}
