@@ -1,7 +1,7 @@
 {
   "name": "The Quintessential Quintuplets",
   "description": "A colorful The Quintessential Quintuplets theme inspired by Ichika, Nino, Miku, Yotsuba and Itsuki.",
-  "version": "1.3",
+  "version": "1.4",
   "authors": [
     {
       "name": "Rexiê愛~",
@@ -57,8 +57,8 @@
       "#FFE1E8"
     ],
     "CHANNELS_DEFAULT": [
-      "#3D3037",
-      "#3D3037"
+      "#241A20",
+      "#241A20"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#FFF0F3",
@@ -123,13 +123,13 @@
       "#FFF7F5"
     ],
     "BORDER_FAINT": [
-      "#E2C3CD"
+      "#E9CDD5"
     ],
     "BORDER_STRONG": [
-      "#C9859E"
+      "#D99AAF"
     ],
     "BORDER_SUBTLE": [
-      "#E2C3CD"
+      "#E9CDD5"
     ],
     "CARD_SECONDARY_BG": [
       "#FFF0F3"
@@ -145,28 +145,28 @@
       "#FFF0F3"
     ],
     "HEADER_PRIMARY": [
-      "#20171C"
+      "#171116"
     ],
     "HEADER_SECONDARY": [
-      "#3D3037"
+      "#241A20"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#D94D74"
-    ],
-    "INTERACTIVE_HOVER": [
       "#C83E65"
     ],
+    "INTERACTIVE_HOVER": [
+      "#B83258"
+    ],
     "INTERACTIVE_MUTED": [
-      "#5A4750"
+      "#55434C"
     ],
     "INTERACTIVE_NORMAL": [
-      "#3D3037"
+      "#30232A"
     ],
     "MENTION_BACKGROUND": [
       "#FFE0E8"
     ],
     "MENTION_FOREGROUND": [
-      "#C83E65"
+      "#B83258"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#FFF0F3"
@@ -175,18 +175,18 @@
       "#FFF0F3"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#E2C3CD"
+      "#E9CDD5"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
       "#EE704F"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#C83E65",
-      "#C83E65"
+      "#B83258",
+      "#B83258"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#241A20",
-      "#241A20"
+      "#171116",
+      "#171116"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#FFF8F7"
@@ -213,19 +213,19 @@
       "#6FBE78"
     ],
     "TEXT_LINK": [
-      "#4C68D7"
+      "#405BC7"
     ],
     "TEXT_MUTED": [
-      "#5A4750"
+      "#55434C"
     ],
     "TEXT_NORMAL": [
-      "#1F171C"
+      "#171116"
     ],
     "TEXT_PRIMARY": [
-      "#1F171C"
+      "#171116"
     ],
     "TEXT_SECONDARY": [
-      "#3D3037"
+      "#30232A"
     ],
     "KEYBOARD": [
       "#FFF0F3"
@@ -238,7 +238,7 @@
     ]
   },
   "rawColors": {
-    "BLACK_500": "#1F171C50",
+    "BLACK_500": "#17111650",
 
     "BRAND_260": "#F3C94B",
     "BRAND_360": "#E85D83",
@@ -280,15 +280,15 @@
     "RED_430": "#5B78E8",
 
     "PLUM_14": "#FFF0F3",
-    "PRIMARY_800": "#20171C",
+    "PRIMARY_800": "#171116",
 
     "PLUM_1": "#FFF8F7",
     "PLUM_22": "#FFE8EE",
     "PRIMARY_660": "#E9A8BE",
-    "PRIMARY_700": "#C9859E",
+    "PRIMARY_700": "#D99AAF",
     "PRIMARY_560": "#E85D83",
     "PRIMARY_600": "#D94D74",
-    "PRIMARY_630": "#C83E65",
+    "PRIMARY_630": "#B83258",
 
     "PLUM_15": "#FCE8EC",
     "PLUM_17": "#FFF7F5",
@@ -296,7 +296,7 @@
     "PLUM_19": "#FCE8EC",
     "PLUM_20": "#FFE1E8",
     "PLUM_23": "#F5C8D5",
-    "PLUM_24": "#E2C3CD"
+    "PLUM_24": "#E9CDD5"
   },
   "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
@@ -327,8 +327,7 @@
   "spec": 2,
   "background": {
     "url": "https://raw.githubusercontent.com/rayhan0706/TQQ/refs/heads/main/Ichika_Nino_Miku_Yotsuba_Itsuki_3s_SubtleCharacterMovement.gif",
-    "alpha": 0.08,
+    "alpha": 0.25,
     "blur": 0
   }
-} 
-      
+}
