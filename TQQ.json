@@ -1,6 +1,6 @@
 {
     "name": "TQQ ",
-    "description": "The Quintessential Quintuplets theme with TQQ background.",
+    "description": "The Quintessential Quintuplets theme .",
     "authors": [
         {
             "name": "Rexiê愛~"
@@ -33,7 +33,6 @@
         "TEXT_MUTED": [
             "#9D8D95"
         ],
-
         "TEXT_LINK": [
             "#5B78E8"
         ],
@@ -249,19 +248,17 @@
 
     "rawColors": {
         "BLACK": "#17131B",
+        "BLACK_500": "#17131B80",
 
         "PRIMARY_100": "#F7EEF2",
         "PRIMARY_200": "#F1E8EC",
         "PRIMARY_300": "#E8DCE2",
         "PRIMARY_330": "#D8C8D0",
         "PRIMARY_360": "#CDBCC5",
-
-        "PRIMARY_400": "#F1E8EC",
+        "PRIMARY_400": "#CDBCC5",
         "PRIMARY_460": "#3A2936",
-
-        "PRIMARY_500": "#F1E8EC",
+        "PRIMARY_500": "#CDBCC5",
         "PRIMARY_530": "#2B202B",
-
         "PRIMARY_600": "#241C27",
         "PRIMARY_630": "#241C27",
         "PRIMARY_645": "#E85D8350",
@@ -271,7 +268,9 @@
 
         "PLUM_1": "#F7EEF2",
         "PLUM_3": "#F1E8EC",
-        "PLUM_4": "#E85D8350",
+
+        "PLUM_4": "#F1E8EC",
+
         "PLUM_6": "#E85D83",
         "PLUM_10": "#9D8D95",
         "PLUM_15": "#CDBCC5",
@@ -404,7 +403,7 @@
     "background": {
         "blur": 0,
         "url": "https://raw.githubusercontent.com/rayhan0706/TQQ/refs/heads/main/Ichika_Nino_Miku_Yotsuba_Itsuki_3s_SubtleCharacterMovement.gif",
-        "alpha": 0.5,
+        "alpha": 0.4,
         "color": "#17131B"
     },
 
@@ -416,14 +415,11 @@
         "icons": {
             "ic_radio_circle_checked": "#E85D83",
             "ic_radio_circle_checked__overlay": "#FFFFFF",
-
             "ic_radio_square_24px": "#E85D83",
             "ic_radio_square_checked_24px": "#E85D83",
             "ic_radio_square_checked_24px__overlay": "#FFFFFF",
-
             "ic_selection_checked_24px": "#E85D83",
             "ic_selection_checked_24px__overlay": "#FFFFFF",
-
             "StatusMobileOnline": "#6FBE78",
             "StatusIdle": "#F3C94B",
             "StatusDND": "#EE704F",
