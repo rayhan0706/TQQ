@@ -1,6 +1,6 @@
 {
-    "name": "TQQ",
-    "description": "The Quintessential Quintuplets theme with a dark translucent UI and animated TQQ background.",
+    "name": "TQQ ",
+    "description": "The Quintessential Quintuplets theme with TQQ background.",
     "authors": [
         {
             "name": "Rexiê愛~"
@@ -58,7 +58,7 @@
             "#201922D9"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#241C26D9"
+            "#241C27D9"
         ],
         "BACKGROUND_TERTIARY": [
             "#2B202BD9"
@@ -238,6 +238,10 @@
             "#81727A"
         ],
 
+        "TYPING_INDICATOR_BG": [
+            "#17131B80"
+        ],
+
         "KEYBOARD": [
             "#17131B"
         ]
@@ -251,10 +255,13 @@
         "PRIMARY_300": "#E8DCE2",
         "PRIMARY_330": "#D8C8D0",
         "PRIMARY_360": "#CDBCC5",
-        "PRIMARY_400": "#E85D83",
+
+        "PRIMARY_400": "#F1E8EC",
         "PRIMARY_460": "#3A2936",
-        "PRIMARY_500": "#E85D83",
+
+        "PRIMARY_500": "#F1E8EC",
         "PRIMARY_530": "#2B202B",
+
         "PRIMARY_600": "#241C27",
         "PRIMARY_630": "#241C27",
         "PRIMARY_645": "#E85D8350",
@@ -409,9 +416,11 @@
         "icons": {
             "ic_radio_circle_checked": "#E85D83",
             "ic_radio_circle_checked__overlay": "#FFFFFF",
+
             "ic_radio_square_24px": "#E85D83",
             "ic_radio_square_checked_24px": "#E85D83",
             "ic_radio_square_checked_24px__overlay": "#FFFFFF",
+
             "ic_selection_checked_24px": "#E85D83",
             "ic_selection_checked_24px__overlay": "#FFFFFF",
 
