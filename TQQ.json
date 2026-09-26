@@ -1,7 +1,7 @@
 {
   "name": "The Quintessential Quintuplets",
   "description": "A colorful The Quintessential Quintuplets theme inspired by Ichika, Nino, Miku, Yotsuba and Itsuki.",
-  "version": "1.0",
+  "version": "1.1",
   "authors": [
     {
       "name": "Rexiê愛~",
@@ -57,8 +57,8 @@
       "#FFE1E8"
     ],
     "CHANNELS_DEFAULT": [
-      "#756A70",
-      "#756A70"
+      "#55464E",
+      "#55464E"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#FFF0F3",
@@ -123,13 +123,13 @@
       "#FFF7F5"
     ],
     "BORDER_FAINT": [
-      "#E9CDD5"
+      "#E2C3CD"
     ],
     "BORDER_STRONG": [
-      "#D99AAF"
+      "#C9859E"
     ],
     "BORDER_SUBTLE": [
-      "#E9CDD5"
+      "#E2C3CD"
     ],
     "CARD_SECONDARY_BG": [
       "#FFF0F3"
@@ -145,28 +145,28 @@
       "#FFF0F3"
     ],
     "HEADER_PRIMARY": [
-      "#403A42"
+      "#493943"
     ],
     "HEADER_SECONDARY": [
-      "#756A70"
+      "#65545D"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#E85D83"
-    ],
-    "INTERACTIVE_HOVER": [
       "#D94D74"
     ],
+    "INTERACTIVE_HOVER": [
+      "#C83E65"
+    ],
     "INTERACTIVE_MUTED": [
-      "#A99BA1"
+      "#8C747F"
     ],
     "INTERACTIVE_NORMAL": [
-      "#756A70"
+      "#65545D"
     ],
     "MENTION_BACKGROUND": [
       "#FFE0E8"
     ],
     "MENTION_FOREGROUND": [
-      "#E85D83"
+      "#C83E65"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#FFF0F3"
@@ -175,18 +175,18 @@
       "#FFF0F3"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#E9CDD5"
+      "#E2C3CD"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
       "#EE704F"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#E85D83",
-      "#E85D83"
+      "#C83E65",
+      "#C83E65"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#403A42",
-      "#403A42"
+      "#493943",
+      "#493943"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#FFF8F7"
@@ -195,10 +195,10 @@
       "#E8DDE0"
     ],
     "STATUS_DANGER": [
-      "#E85D5D"
+      "#D94D5D"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#E85D5D"
+      "#D94D5D"
     ],
     "STATUS_DANGER_TEXT": [
       "#FFFFFF"
@@ -213,19 +213,19 @@
       "#6FBE78"
     ],
     "TEXT_LINK": [
-      "#5B78E8"
+      "#4C68D7"
     ],
     "TEXT_MUTED": [
-      "#8D7E86"
+      "#76636D"
     ],
     "TEXT_NORMAL": [
-      "#403A42"
+      "#493943"
     ],
     "TEXT_PRIMARY": [
-      "#403A42"
+      "#493943"
     ],
     "TEXT_SECONDARY": [
-      "#756A70"
+      "#65545D"
     ],
     "KEYBOARD": [
       "#FFF0F3"
@@ -238,7 +238,7 @@
     ]
   },
   "rawColors": {
-    "BLACK_500": "#403A4250",
+    "BLACK_500": "#49394350",
 
     "BRAND_260": "#F3C94B",
     "BRAND_360": "#E85D83",
@@ -280,15 +280,15 @@
     "RED_430": "#5B78E8",
 
     "PLUM_14": "#FFF0F3",
-    "PRIMARY_800": "#403A42",
+    "PRIMARY_800": "#493943",
 
     "PLUM_1": "#FFF8F7",
     "PLUM_22": "#FFE8EE",
     "PRIMARY_660": "#E9A8BE",
-    "PRIMARY_700": "#D99AAF",
+    "PRIMARY_700": "#C9859E",
     "PRIMARY_560": "#E85D83",
     "PRIMARY_600": "#D94D74",
-    "PRIMARY_630": "#C9466B",
+    "PRIMARY_630": "#C83E65",
 
     "PLUM_15": "#FCE8EC",
     "PLUM_17": "#FFF7F5",
@@ -296,7 +296,7 @@
     "PLUM_19": "#FCE8EC",
     "PLUM_20": "#FFE1E8",
     "PLUM_23": "#F5C8D5",
-    "PLUM_24": "#E9CDD5"
+    "PLUM_24": "#E2C3CD"
   },
   "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
@@ -330,4 +330,4 @@
     "alpha": 0.25,
     "blur": 0
   }
-} 
+}
