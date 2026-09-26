@@ -1,0 +1,20 @@
+{
+  "name": "TQQ TYPING TEST 29",
+
+  "rawColors": {
+    "PRIMARY_630": "#00FF00",
+    "PRIMARY_660": "#00FF00",
+    "PRIMARY_700": "#00FF00",
+    "PRIMARY_800": "#00FF00",
+
+    "PLUM_4": "#F1E8EC",
+
+    "BLACK_500": "#17131B80"
+  },
+
+  "semanticColors": {
+    "TYPING_INDICATOR_BG": [
+      "#17131B80"
+    ]
+  }
+}
