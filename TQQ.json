@@ -243,11 +243,12 @@
   "rawColors": {
     "BLACK": "#17131B",
 
-    "PRIMARY_100": "#F7EEF2",
-    "PRIMARY_200": "#F1E8EC",
-    "PRIMARY_300": "#E8DCE2",
-    "PRIMARY_330": "#D8C8D0",
-    "PRIMARY_360": "#CDBCC5",
+    "PRIMARY_100": "#00FF00",
+"PRIMARY_200": "#00FF00",
+"PRIMARY_300": "#00FF00",
+"PRIMARY_330": "#00FF00",
+"PRIMARY_360": "#00FF00",
+
 
     "PRIMARY_400": "#F1E8EC",
     "PRIMARY_460": "#3A2936",
@@ -261,8 +262,8 @@
     "PRIMARY_700": "#201922",
     "PRIMARY_800": "#17131B",
 
-    "PLUM_1": "#F7EEF2",
-    "PLUM_3": "#F1E8EC",
+    "PLUM_1": "#00FF00",
+    "PLUM_3": "#00FF00",
     "PLUM_4": "#E8DCE2",
     "PLUM_6": "#E85D83",
     "PLUM_10": "#9D8D95",
@@ -382,11 +383,11 @@
     "BLUE_660": "#24327C",
     "BLUE_700": "#1F2B70",
 
-    "WHITE": "#F7EEF2",
-    "WHITE_500": "#F7EEF2",
-    "WHITE_530": "#F1E8EC",
-    "WHITE_600": "#D8C8D0",
-    "WHITE_630": "#CDBCC5",
+    "WHITE": "#00FF00",
+"WHITE_500": "#00FF00",
+"WHITE_530": "#00FF00",
+"WHITE_600": "#00FF00",
+"WHITE_630": "#00FF00",
 
     "GUILD_BOOSTING_PINK": "#E85D83",
     "GUILD_BOOSTING_PURPLE": "#5B78E8",
@@ -396,7 +397,7 @@
   "background": {
     "blur": 0,
     "url": "https://raw.githubusercontent.com/rayhan0706/TQQ/refs/heads/main/Ichika_Nino_Miku_Yotsuba_Itsuki_3s_SubtleCharacterMovement.gif",
-    "alpha": 0.4,
+    "alpha": 0.5,
     "color": "#17131B"
   },
 
