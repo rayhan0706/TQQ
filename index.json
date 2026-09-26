@@ -1,0 +1,7 @@
+{
+  "name": "TQQ Font",
+  "description": "The Quintessential Quintuplets font",
+  "main": {
+    "Quintessential-Regular": "https://raw.githubusercontent.com/rayhan0706/TQQ/refs/heads/main/Quintessential-Regular.ttf"
+  }
+}
