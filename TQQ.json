@@ -1,7 +1,7 @@
 {
   "name": "The Quintessential Quintuplets",
   "description": "A colorful The Quintessential Quintuplets theme inspired by Ichika, Nino, Miku, Yotsuba and Itsuki.",
-  "version": "1.1",
+  "version": "1.2",
   "authors": [
     {
       "name": "Rexiê愛~",
@@ -57,8 +57,8 @@
       "#FFE1E8"
     ],
     "CHANNELS_DEFAULT": [
-      "#55464E",
-      "#55464E"
+      "#58464F",
+      "#58464F"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#FFF0F3",
@@ -145,10 +145,10 @@
       "#FFF0F3"
     ],
     "HEADER_PRIMARY": [
-      "#493943"
+      "#30242B"
     ],
     "HEADER_SECONDARY": [
-      "#65545D"
+      "#58464F"
     ],
     "INTERACTIVE_ACTIVE": [
       "#D94D74"
@@ -157,10 +157,10 @@
       "#C83E65"
     ],
     "INTERACTIVE_MUTED": [
-      "#8C747F"
+      "#705D67"
     ],
     "INTERACTIVE_NORMAL": [
-      "#65545D"
+      "#58464F"
     ],
     "MENTION_BACKGROUND": [
       "#FFE0E8"
@@ -185,8 +185,8 @@
       "#C83E65"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#493943",
-      "#493943"
+      "#30242B",
+      "#30242B"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#FFF8F7"
@@ -216,16 +216,16 @@
       "#4C68D7"
     ],
     "TEXT_MUTED": [
-      "#76636D"
+      "#705D67"
     ],
     "TEXT_NORMAL": [
-      "#493943"
+      "#2B2027"
     ],
     "TEXT_PRIMARY": [
-      "#493943"
+      "#2B2027"
     ],
     "TEXT_SECONDARY": [
-      "#65545D"
+      "#58464F"
     ],
     "KEYBOARD": [
       "#FFF0F3"
@@ -238,7 +238,7 @@
     ]
   },
   "rawColors": {
-    "BLACK_500": "#49394350",
+    "BLACK_500": "#2B202750",
 
     "BRAND_260": "#F3C94B",
     "BRAND_360": "#E85D83",
@@ -280,7 +280,7 @@
     "RED_430": "#5B78E8",
 
     "PLUM_14": "#FFF0F3",
-    "PRIMARY_800": "#493943",
+    "PRIMARY_800": "#30242B",
 
     "PLUM_1": "#FFF8F7",
     "PLUM_22": "#FFE8EE",
@@ -327,8 +327,7 @@
   "spec": 2,
   "background": {
     "url": "https://raw.githubusercontent.com/rayhan0706/TQQ/refs/heads/main/Ichika_Nino_Miku_Yotsuba_Itsuki_3s_SubtleCharacterMovement.gif",
-    "alpha": 0.25,
+    "alpha": 0.12,
     "blur": 0
   }
 }
- 
