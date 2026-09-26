@@ -1,7 +1,7 @@
 {
   "name": "The Quintessential Quintuplets",
   "description": "A colorful The Quintessential Quintuplets theme inspired by Ichika, Nino, Miku, Yotsuba and Itsuki.",
-  "version": "2.0",
+  "version": "2.1",
   "authors": [
     {
       "name": "Rexiê愛~",
@@ -219,13 +219,13 @@
       "#55434C"
     ],
     "TEXT_NORMAL": [
-      "#000000"
+      "#171116"
     ],
     "TEXT_PRIMARY": [
-      "#000000"
+      "#171116"
     ],
     "TEXT_SECONDARY": [
-      "#171116"
+      "#30232A"
     ],
     "KEYBOARD": [
       "#FFF0F3"
@@ -282,13 +282,14 @@
     "PLUM_14": "#171116",
     "PRIMARY_800": "#171116",
 
-    "PLUM_1": "#000000",
-    "PLUM_22": "#000000",
-    "PRIMARY_660": "#000000",
-    "PRIMARY_700": "#000000",
-    "PRIMARY_560": "#000000",
-    "PRIMARY_600": "#000000",
-    "PRIMARY_630": "#000000",
+    "PLUM_1": "#171116",
+    "PLUM_22": "#171116",
+
+    "PRIMARY_660": "#171116",
+    "PRIMARY_700": "#171116",
+    "PRIMARY_560": "#171116",
+    "PRIMARY_600": "#171116",
+    "PRIMARY_630": "#171116",
 
     "PLUM_15": "#FCE8EC",
     "PLUM_17": "#FFF7F5",
