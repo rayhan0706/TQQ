@@ -1,30 +1,19 @@
 {
   "name": "The Quintessential Quintuplets",
-  "description": "The Quintessential Quintuplets theme.",
-  "version": "1.0",
+  "description": "A soft TQQ theme featuring Ichika, Nino, Miku, Yotsuba and Itsuki with a subtle animated background.",
+  "version": "2.4",
   "authors": [
     {
-      "name": "Rexiê愛~",
-      "id": "1198310950789451879"
+      "name": "Rexiê愛~"
     }
   ],
-
   "semanticColors": {
-
-    "PANEL_BG": [
-      "#000000"
-    ],
-
-    "BACKGROUND_BASE_LOWEST": [
-      "#000000"
-    ],
-
     "ANDROID_RIPPLE": [
-      "#E85D83"
+      "#E85D8330"
     ],
 
     "CONTEXT_MENU_BACKDROP_BACKGROUND": [
-      "#000000CC"
+      "#FFF8F7CC"
     ],
 
     "CHAT_BACKGROUND": [
@@ -32,123 +21,173 @@
     ],
 
     "BACKGROUND_ACCENT": [
-      "#E85D83"
+      "#FFE8EE",
+      "#FFDCE5"
     ],
 
     "BACKGROUND_FLOATING": [
-      "#29272EE6"
-    ],
-
-    "BACKGROUND_NESTED_FLOATING": [
-      "#161519D9"
+      "#FFF8F7",
+      "#FFF0F3"
     ],
 
     "BACKGROUND_MENTIONED": [
-      "#E85D8333"
+      "#E85D8360"
     ],
 
     "BACKGROUND_MENTIONED_HOVER": [
-      "#E85D8366"
+      "#E85D8390"
     ],
 
     "BACKGROUND_MESSAGE_HOVER": [
-      "#E85D831F"
+      "#E85D8318"
+    ],
+
+    "BACKGROUND_NESTED_FLOATING": [
+      "#FFF0F3",
+      "#FFF0F3"
     ],
 
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000"
+      "#FFF8F7"
     ],
 
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000"
+      "#FFF0F3"
     ],
 
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#E85D8326"
-    ],
-
-    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#E85D8330",
       "#E85D8340"
     ],
 
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#FFE8EE",
+      "#FFE8EE"
+    ],
+
     "BACKGROUND_MODIFIER_HOVER": [
-      "#E85D8326"
+      "#FFF0F3",
+      "#FFF0F3"
     ],
 
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#E85D8350"
+      "#FFE8EE",
+      "#FFDCE5"
     ],
 
     "BACKGROUND_PRIMARY": [
+      "#FFF8F7",
       "#FFF8F7"
     ],
 
     "BACKGROUND_SECONDARY": [
+      "#FFF0F3",
       "#FFF0F3"
     ],
 
     "BACKGROUND_SECONDARY_ALT": [
+      "#FFE8EE",
       "#FFE8EE"
     ],
 
     "BACKGROUND_TERTIARY": [
-      "#F5D8E0"
-    ],
-
-    "BG_BASE_PRIMARY": [
-      "#000000"
-    ],
-
-    "BG_BASE_SECONDARY": [
-      "#000000"
-    ],
-
-    "BG_BASE_TERTIARY": [
-      "#000000"
-    ],
-
-    "BG_BACKDROP": [
-      "#08070CAA"
-    ],
-
-    "HOME_BACKGROUND": [
-      "#000000"
-    ],
-
-    "BORDER_FAINT": [
-      "#E85D8340"
-    ],
-
-    "BORDER_STRONG": [
-      "#E85D8370"
-    ],
-
-    "BORDER_SUBTLE": [
-      "#E85D8355"
-    ],
-
-    "CARD_SECONDARY_BG": [
+      "#FFE8EE",
       "#FFE8EE"
     ],
 
+    "BG_BASE_PRIMARY": [
+      "#FFF8F7"
+    ],
+
+    "BG_BASE_SECONDARY": [
+      "#FFF0F3"
+    ],
+
+    "BG_BASE_TERTIARY": [
+      "#FFE8EE"
+    ],
+
+    "BG_BACKDROP": [
+      "#FFF8F7CC",
+      "#FFE8EE"
+    ],
+
+    "BG_MOD_FAINT": [
+      "#FFF8F7"
+    ],
+
+    "BG_MOD_STRONG": [
+      "#FFE8EE"
+    ],
+
+    "BG_MOD_SUBTLE": [
+      "#E85D8325"
+    ],
+
+    "BG_SURFACE_RAISED": [
+      "#FFF8F7"
+    ],
+
+    "BACKGROUND_BASE_LOWEST": [
+      "#FFF8F7"
+    ],
+
+    "HOME_BACKGROUND": [
+      "#FFF8F7"
+    ],
+
+    "PANEL_BG": [
+      "#FFF8F7"
+    ],
+
+    "BADGE_BRAND_BG": [
+      "#E85D83"
+    ],
+
+    "BADGE_BRAND_TEXT": [
+      "#FFFFFF"
+    ],
+
+    "BORDER_FAINT": [
+      "#E9A8BE"
+    ],
+
+    "BORDER_STRONG": [
+      "#D99AAF"
+    ],
+
+    "BORDER_SUBTLE": [
+      "#E9A8BE"
+    ],
+
     "CARD_PRIMARY_BG": [
+      "#FFF8F7"
+    ],
+
+    "CARD_PRIMARY_PRESSED_BG": [
+      "#FFE8EE"
+    ],
+
+    "CARD_SECONDARY_BG": [
       "#FFF0F3"
     ],
 
     "CHANNEL_ICON": [
+      "#756A70",
       "#756A70"
     ],
 
     "CHANNELS_DEFAULT": [
+      "#756A70",
       "#756A70"
     ],
 
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#FFFFFF"
+    "EMBED_BACKGROUND": [
+      "#FFF0F3"
     ],
 
-    "EMBED_BACKGROUND": [
-      "#FFE8EE"
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#E85D83"
     ],
 
     "HEADER_PRIMARY": [
@@ -159,84 +198,40 @@
       "#756A70"
     ],
 
+    "INPUT_BACKGROUND": [
+      "#FFF0F3"
+    ],
+
     "INTERACTIVE_ACTIVE": [
       "#E85D83"
     ],
 
     "INTERACTIVE_HOVER": [
-      "#E85D83"
-    ],
-
-    "INTERACTIVE_MUTED": [
-      "#756A70"
-    ],
-
-    "INTERACTIVE_NORMAL": [
-      "#403A42"
-    ],
-
-    "MENTION_BACKGROUND": [
-      "#E85D8355"
-    ],
-
-    "MENTION_FOREGROUND": [
       "#C9466B"
     ],
 
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#FFE8EE"
+    "INTERACTIVE_MUTED": [
+      "#A98F99"
     ],
 
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#FFE8EE"
-    ],
-
-    "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#E85D8355"
-    ],
-
-    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#D94D74"
-    ],
-
-    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+    "INTERACTIVE_NORMAL": [
       "#756A70"
     ],
 
-    "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#403A42"
+    "MENTION_BACKGROUND": [
+      "#E85D83"
     ],
 
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+    "MENTION_FOREGROUND": [
       "#FFFFFF"
     ],
 
-    "SPOILER_HIDDEN_BACKGROUND": [
-      "#FFE8EE"
+    "ROLE_DEFAULT": [
+      "#756A70"
     ],
 
-    "STATUS_DANGER": [
-      "#D94D74"
-    ],
-
-    "STATUS_DANGER_BACKGROUND": [
-      "#D94D74"
-    ],
-
-    "STATUS_DANGER_TEXT": [
-      "#FFFFFF"
-    ],
-
-    "POLLS_NORMAL_FILL_HOVER": [
-      "#FFE8EE"
-    ],
-
-    "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#FFE8EE"
-    ],
-
-    "POLLS_VICTOR_FILL": [
-      "#E85D8380"
+    "TEXT_DANGER": [
+      "#C9466B"
     ],
 
     "TEXT_LINK": [
@@ -244,7 +239,7 @@
     ],
 
     "TEXT_MUTED": [
-      "#756A70"
+      "#A98F99"
     ],
 
     "TEXT_NORMAL": [
@@ -259,260 +254,183 @@
       "#756A70"
     ],
 
-    "KEYBOARD": [
-      "#FFFFFF"
-    ],
-
-    "BACKGROUND_MODIFIER_ACCEPT": [
-      "#6FBE7833"
-    ],
-
-    "BACKGROUND_MODIFIER_ACCEPT_HOVER": [
-      "#6FBE7855"
-    ],
-
-    "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND": [
-      "#FFE8EE"
-    ],
-
-    "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND_HOVER": [
-      "#FFDDE5"
-    ],
-
-    "BADGE_BRAND_BG": [
+    "THREAD_CHANNEL_SPINE": [
       "#E85D83"
     ],
 
-    "BADGE_BRAND_TEXT": [
-      "#FFFFFF"
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#756A70",
+      "#756A70"
     ],
 
-    "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#E85D83"
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#756A70",
+      "#756A70"
     ],
 
-    "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-      "#FFE8EE"
-    ],
-
-    "TYPING_INDICATOR_BG": [
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#FFF0F3"
     ],
 
-    "DIVIDER_STRONG": [
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#E85D83"
+    ],
+
+    "REDESIGN_BUTTON_PRIMARY_TEXT": [
+      "#FFFFFF"
+    ],
+
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#D94D74"
+    ],
+
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#FFE8EE"
+    ],
+
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+      "#FFDCE5"
+    ],
+
+    "REDESIGN_BUTTON_SECONDARY_TEXT": [
+      "#403A42"
+    ],
+
+    "SPOILER_HIDDEN_BACKGROUND": [
       "#E9A8BE"
     ],
 
-    "SPOILER_REVEALED_BACKGROUND": [
-      "#FFF0F3"
+    "STATUS_DANGER": [
+      "#C9466B"
     ],
 
-    "STATUS_WARNING": [
-      "#F3C94B"
+    "STATUS_DANGER_BACKGROUND": [
+      "#C9466B"
     ],
 
-    "STATUS_OFFLINE": [
-      "#756A70"
+    "STATUS_DANGER_TEXT": [
+      "#FFFFFF"
     ]
   },
 
   "rawColors": {
+    "BLACK_500": "#403A4250",
 
-    "BLUE_260": "#5B78E8",
-    "BLUE_300": "#5B78E8",
-    "BLUE_330": "#5B78E8",
-    "BLUE_345": "#5B78E8",
-    "BLUE_360": "#5B78E8",
-    "BLUE_400": "#5B78E8",
-    "BLUE_430": "#5B78E8",
-    "BLUE_460": "#5B78E8",
-    "BLUE_500": "#5B78E8",
-    "BLUE_530": "#5B78E8",
-    "BLUE_560": "#5B78E8",
-    "BLUE_600": "#5B78E8",
-    "BLUE_630": "#5B78E8",
-    "BLUE_660": "#5B78E8",
-    "BLUE_700": "#5B78E8",
-
-    "BLACK_500": "#00000050",
-    "BLACK_460": "#000000",
-
-    "BRAND_200": "#E85D83",
     "BRAND_260": "#E85D83",
-    "BRAND_300": "#E85D83",
-    "BRAND_330": "#E85D83",
-    "BRAND_345": "#E85D83",
     "BRAND_360": "#E85D83",
-    "BRAND_400": "#E85D83",
-    "BRAND_430": "#E85D83",
-    "BRAND_460": "#E85D83",
     "BRAND_500": "#E85D83",
-    "BRAND_530": "#D94D74",
     "BRAND_560": "#D94D74",
-    "BRAND_600": "#D94D74",
-    "BRAND_630": "#C9466B",
-    "BRAND_660": "#C9466B",
-    "BRAND_700": "#C9466B",
-    "BRAND_730": "#C9466B",
-
-    "PLUM_1": "#403A42",
-    "PLUM_3": "#403A42",
-    "PLUM_4": "#403A42",
-    "PLUM_6": "#403A42",
-    "PLUM_9": "#756A70",
-    "PLUM_10": "#756A70",
-    "PLUM_11": "#756A70",
-    "PLUM_13": "#756A70",
-    "PLUM_15": "#E85D83",
-    "PLUM_16": "#FFF0F3",
-    "PLUM_17": "#FFFFFF",
-    "PLUM_18": "#FFF0F3",
-    "PLUM_19": "#FFF0F3",
-    "PLUM_20": "#FFFFFF",
-    "PLUM_21": "#FFF0F3",
-    "PLUM_22": "#FFE8EE",
-    "PLUM_24": "#FFFFFF",
-    "PLUM_25": "#FFFFFF",
-
-    "PRIMARY_100": "#F3C94B",
-    "PRIMARY_200": "#F3C94B",
-    "PRIMARY_300": "#F3C94B",
-    "PRIMARY_330": "#F3C94B",
-    "PRIMARY_360": "#F3C94B",
-    "PRIMARY_400": "#E85D83",
-    "PRIMARY_460": "#FFE8EE",
-    "PRIMARY_500": "#E85D83",
-    "PRIMARY_530": "#E85D83",
-
-    "PRIMARY_600": "#FFFFFF",
-    "PRIMARY_630": "#FFF0F3",
-    "PRIMARY_645": "#FFFFFF",
-    "PRIMARY_660": "#FFF0F3",
-    "PRIMARY_700": "#FFF0F3",
-    "PRIMARY_730": "#C9466B",
-    "PRIMARY_800": "#FFF0F3",
-
-    "GREEN_260": "#6FBE78",
-    "GREEN_300": "#6FBE78",
-    "GREEN_330": "#6FBE78",
-    "GREEN_345": "#6FBE78",
-    "GREEN_360": "#6FBE78",
-    "GREEN_400": "#6FBE78",
-    "GREEN_430": "#6FBE78",
-    "GREEN_460": "#6FBE78",
-    "GREEN_500": "#6FBE78",
-    "GREEN_530": "#6FBE78",
-    "GREEN_560": "#6FBE78",
-    "GREEN_600": "#6FBE78",
-    "GREEN_630": "#6FBE78",
-    "GREEN_660": "#6FBE78",
-    "GREEN_700": "#6FBE78",
-
-    "GUILD_BOOSTING_PINK": "#E85D83",
-    "GUILD_BOOSTING_PURPLE": "#5B78E8",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#5B78E8",
-
-    "RED_260": "#D94D74",
-    "RED_300": "#D94D74",
-    "RED_330": "#D94D74",
-    "RED_345": "#D94D74",
-    "RED_360": "#D94D74",
-    "RED_400": "#D94D74",
-    "RED_430": "#5B78E8",
-    "RED_460": "#D94D74",
-    "RED_500": "#D94D74",
-    "RED_530": "#C9466B",
-    "RED_560": "#C9466B",
-    "RED_600": "#C9466B",
-    "RED_630": "#C9466B",
-    "RED_660": "#C9466B",
-    "RED_700": "#C9466B",
-
-    "ROLE_DEFAULT": "#756A70",
 
     "ORANGE_260": "#EE704F",
     "ORANGE_300": "#EE704F",
     "ORANGE_330": "#EE704F",
     "ORANGE_345": "#EE704F",
     "ORANGE_360": "#EE704F",
-    "ORANGE_400": "#EE704F",
-    "ORANGE_430": "#EE704F",
-    "ORANGE_460": "#EE704F",
-    "ORANGE_500": "#EE704F",
-    "ORANGE_530": "#EE704F",
-    "ORANGE_560": "#EE704F",
-    "ORANGE_600": "#EE704F",
-    "ORANGE_630": "#EE704F",
-    "ORANGE_660": "#EE704F",
-    "ORANGE_700": "#EE704F",
 
-    "YELLOW_260": "#F3C94B",
+    "YELLOW_100": "#F3C94B",
+    "YELLOW_200": "#F3C94B",
     "YELLOW_300": "#F3C94B",
-    "YELLOW_330": "#F3C94B",
     "YELLOW_345": "#F3C94B",
     "YELLOW_360": "#F3C94B",
     "YELLOW_400": "#F3C94B",
     "YELLOW_430": "#F3C94B",
-    "YELLOW_460": "#F3C94B",
     "YELLOW_500": "#F3C94B",
-    "YELLOW_530": "#F3C94B",
-    "YELLOW_560": "#F3C94B",
-    "YELLOW_600": "#F3C94B",
-    "YELLOW_630": "#F3C94B",
-    "YELLOW_660": "#F3C94B",
-    "YELLOW_700": "#F3C94B",
 
-    "WHITE_500": "#403A42",
-    "WHITE_630": "#C9466B",
+    "GREEN_260": "#6FBE78",
+    "GREEN_300": "#6FBE78",
+    "GREEN_330": "#6FBE78",
+    "GREEN_345": "#6FBE78",
+    "GREEN_360": "#6FBE78",
 
-    "PRIMARY_DARK": "#000000",
-    "PRIMARY_230": "#FFFFFF"
+    "RED_400": "#C9466B",
+    "RED_430": "#C9466B",
+    "RED_500": "#C9466B",
+
+    "BLUE_260": "#5B78E8",
+    "BLUE_300": "#5B78E8",
+    "BLUE_330": "#5B78E8",
+    "BLUE_345": "#5B78E8",
+    "BLUE_360": "#5B78E8",
+
+    "PLUM_1": "#FFF8F7",
+    "PLUM_2": "#FFF8F7",
+    "PLUM_3": "#FFF8F7",
+    "PLUM_4": "#FFF8F7",
+    "PLUM_5": "#FFF0F3",
+    "PLUM_6": "#FFF0F3",
+    "PLUM_7": "#FFF0F3",
+    "PLUM_8": "#FFE8EE",
+    "PLUM_9": "#FFE8EE",
+    "PLUM_10": "#FFE8EE",
+    "PLUM_11": "#FFE8EE",
+    "PLUM_12": "#FFE8EE",
+    "PLUM_13": "#E9A8BE",
+    "PLUM_14": "#FFF0F3",
+    "PLUM_15": "#FFE8EE",
+    "PLUM_16": "#FFF8F7",
+    "PLUM_17": "#FFF0F3",
+    "PLUM_18": "#FFF0F3",
+    "PLUM_19": "#FFE8EE",
+    "PLUM_20": "#FFE8EE",
+    "PLUM_21": "#FFF8F7",
+    "PLUM_22": "#FFE8EE",
+    "PLUM_23": "#FFF0F3",
+    "PLUM_24": "#FFF8F7",
+
+    "PRIMARY_100": "#FFF8F7",
+    "PRIMARY_200": "#FFF8F7",
+    "PRIMARY_230": "#FFF0F3",
+    "PRIMARY_300": "#FFF0F3",
+    "PRIMARY_400": "#FFE8EE",
+    "PRIMARY_500": "#E9A8BE",
+    "PRIMARY_560": "#E85D83",
+    "PRIMARY_600": "#D94D74",
+    "PRIMARY_630": "#C9466B",
+    "PRIMARY_645": "#FFE8EE",
+    "PRIMARY_660": "#FFF0F3",
+    "PRIMARY_700": "#FFF0F3",
+    "PRIMARY_730": "#E85D83",
+    "PRIMARY_800": "#FFF8F7",
+
+    "WHITE_500": "#FFFFFF",
+    "WHITE_530": "#FFFFFF",
+    "WHITE_600": "#FFF8F7",
+    "WHITE_630": "#FFF0F3"
   },
 
   "fonts": {
-    "ggsans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1"
+    "ABCGintoNord-ExtraBold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Bold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-BoldItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-ExtraBold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Medium": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-MediumItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Normal": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-NormalItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Semibold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Bold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-ExtraBold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Medium": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Normal": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-NormalItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Semibold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "SourceCodePro-Semibold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf"
   },
 
   "plus": {
-    "version": "0",
+    "version": 0,
     "iconpack": "rosiecord-plumpy",
     "mentionLineColor": "#C9466B",
-    "customOverlays": true,
-
-    "icons": {
-      "ic_radio_circle_checked": "#E85D83",
-      "ic_radio_square_24px": "#E85D83",
-      "ic_radio_square_checked_24px": "#E85D83",
-      "ic_selection_checked_24px": "#E85D83",
-      "ic_selection_none_24px": "#C9466B",
-      "ic_star_filled": "#F3C94B",
-      "img_guild_folder": "#E85D83",
-      "StatusMobileOnline": "#6FBE78",
-      "StatusOnline": "#6FBE78",
-      "StatusIdle": "#F3C94B",
-      "StatusDND": "#D94D74",
-      "StatusOffline": "#756A70",
-      "StatusStreaming": "#5B78E8",
-      "friends_toast_icon": "#E85D83",
-      "toast_copy_link": "#E85D83",
-      "toast_copy_message": "#403A42",
-      "toast_image_saved": "#403A42",
-      "toast_invite_sent": "#E85D83",
-      "ic_crown_16px": "#F3C94B",
-      "member_list_badge_16px": "#E85D83",
-      "ic_send": "#E85D83",
-      "down_arrow": "#E85D83"
-    }
+    "customOverlays": true
   },
 
   "spec": 2,
 
   "background": {
     "url": "https://raw.githubusercontent.com/rayhan0706/TQQ/refs/heads/main/Ichika_Nino_Miku_Yotsuba_Itsuki_3s_SubtleCharacterMovement.gif",
-    "alpha": 0.40,
+    "alpha": 0.4,
     "blur": 0
   }
 }
