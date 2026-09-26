@@ -1,7 +1,8 @@
 {
+  "spec": 1,
   "name": "TQQ Font",
-  "description": "The Quintessential Quintuplets font",
+  "previewText": "The Quintessential Quintuplets Font",
   "main": {
-    "Quintessential-Regular": "https://raw.githubusercontent.com/rayhan0706/TQQ/refs/heads/main/Quintessential-Regular.ttf"
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/TQQ/refs/heads/main/Quintessential-Regular.ttf"
   }
 }
