@@ -1,7 +1,7 @@
 {
   "name": "The Quintessential Quintuplets",
-  "description": "A dark AMOLED-inspired theme based on the five Nakano sisters, blending Ichika yellow, Nino pink, Miku blue, Yotsuba green, and Itsuki orange.",
-  "version": "1.0",
+  "description": "A light theme inspired by The Quintessential Quintuplets, featuring the colors of the five Nakano sisters with Nino's pink as the main accent.",
+  "version": "1.1",
   "authors": [
     {
       "name": "Rexiê愛~",
@@ -10,127 +10,145 @@
   ],
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#241B20",
-      "#241B20"
+      "#FFF7F5",
+      "#FFF7F5"
     ],
     "BACKGROUND_SECONDARY": [
-      "#302027",
-      "#302027"
+      "#FFF0F3",
+      "#FFF0F3"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#1C1519",
-      "#1C1519"
+      "#FCE8EC",
+      "#FCE8EC"
     ],
     "BACKGROUND_TERTIARY": [
-      "#191316",
-      "#191316"
+      "#F8E1E6",
+      "#F8E1E6"
     ],
     "CHAT_BACKGROUND": [
-      "#1A1417"
+      "#FFF7F5"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#1A1417"
+      "#FFF7F5"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#241B20"
+      "#FFF0F3"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#302027"
+      "#FFFFFF"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#302027"
+      "#FFFFFF"
     ],
+
     "HEADER_PRIMARY": [
-      "#FFF7F8"
+      "#30252A"
     ],
     "HEADER_SECONDARY": [
-      "#E6C9D1"
+      "#5E4E55"
     ],
+
     "TEXT_NORMAL": [
-      "#F7EDEF"
+      "#40373C"
     ],
     "TEXT_PRIMARY": [
-      "#FFF7F8"
+      "#30252A"
     ],
     "TEXT_SECONDARY": [
-      "#D8BFC8"
+      "#65565D"
     ],
     "TEXT_MUTED": [
-      "#A98D97"
+      "#806F77"
     ],
+
     "CHANNELS_DEFAULT": [
-      "#D8BFC8",
-      "#D8BFC8"
+      "#5E4E55",
+      "#5E4E55"
     ],
+
     "INTERACTIVE_NORMAL": [
-      "#E6C9D1"
+      "#65565D"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FF7198"
+      "#E85D83"
     ],
     "INTERACTIVE_HOVER": [
-      "#FF8CAA"
+      "#D94B73"
     ],
+
     "BACKGROUND_MODIFIER_HOVER": [
-      "#402B34",
-      "#402B34"
+      "#F6DCE2",
+      "#F6DCE2"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#4A303B",
-      "#4A303B"
+      "#F2D1D9",
+      "#F2D1D9"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#55313F",
-      "#623647"
+      "#F3C7D2",
+      "#EFB8C7"
     ],
+
     "BORDER_FAINT": [
-      "#684450"
+      "#E8C9D1"
     ],
     "BORDER_SUBTLE": [
-      "#684450"
+      "#E2BBC5"
     ],
     "BORDER_STRONG": [
-      "#8A5365"
+      "#D69AAA"
     ],
+
     "TEXT_LINK": [
-      "#79A7FF"
+      "#5274C9"
     ]
   },
+
   "rawColors": {
     "TQQ_NINO_PINK": "#E85D83",
     "TQQ_ICHIKA_YELLOW": "#F3C94B",
     "TQQ_MIKU_BLUE": "#5B78E8",
     "TQQ_YOTSUBA_GREEN": "#6FBE78",
     "TQQ_ITSUKI_ORANGE": "#EE704F",
+
     "TQQ_PINK_LIGHT": "#FF7198",
-    "TQQ_BLUE_LIGHT": "#79A7FF",
-    "TQQ_GREEN_LIGHT": "#86D58F",
-    "TQQ_YELLOW_LIGHT": "#FFE17A",
-    "TQQ_ORANGE_LIGHT": "#FF876A",
-    "TQQ_BACKGROUND": "#1A1417",
-    "TQQ_BACKGROUND_DARK": "#191316",
-    "TQQ_SURFACE": "#241B20",
-    "TQQ_SURFACE_LIGHT": "#302027",
-    "TQQ_TEXT": "#FFF7F8",
-    "TQQ_TEXT_SECONDARY": "#D8BFC8",
-    "TQQ_TEXT_MUTED": "#A98D97",
-    "TQQ_BORDER": "#684450"
+    "TQQ_BLUE_LIGHT": "#7894F0",
+    "TQQ_GREEN_LIGHT": "#82C98A",
+    "TQQ_YELLOW_LIGHT": "#F8D76A",
+    "TQQ_ORANGE_LIGHT": "#F4876C",
+
+    "TQQ_BACKGROUND": "#FFF7F5",
+    "TQQ_BACKGROUND_SECONDARY": "#FFF0F3",
+    "TQQ_BACKGROUND_TERTIARY": "#F8E1E6",
+
+    "TQQ_SURFACE": "#FFFFFF",
+    "TQQ_SURFACE_ALT": "#FCE8EC",
+
+    "TQQ_TEXT": "#30252A",
+    "TQQ_TEXT_SECONDARY": "#5E4E55",
+    "TQQ_TEXT_MUTED": "#806F77",
+
+    "TQQ_BORDER": "#E2BBC5"
   },
+
   "fonts": {
     "font": "gg sans",
     "code": "monospace",
     "serif": "serif",
     "sans": "gg sans"
   },
+
   "plus": {
     "iconpack": "rosiecord-plumpy",
     "customOverlays": true,
     "mentionLineColor": "#E85D83"
   },
+
   "spec": 2,
+
   "background": {
     "url": "https://raw.githubusercontent.com/rayhan0706/TQQ/refs/heads/main/Ichika_Nino_Miku_Yotsuba_Itsuki_3s_SubtleCharacterMovement.gif",
-    "alpha": 0.22,
+    "alpha": 0.16,
     "blur": 0
   }
 }
